@@ -1,6 +1,4 @@
-# TarotAgentPet
-
-帮我# ARCANA 黑客松 B｜桌宠整合版
+# ARCANA 黑客松 B｜桌宠整合版
 
 这是一个 Vite + FastAPI 的 AI 塔罗网站。本版本在 Chrome 稳定版基础上整合了网页塔罗猫与独立 Windows 桌宠、站内对话、账号和个人占卜档案。
 
@@ -126,4 +124,3 @@ npm run test:e2e
 ## 牌面素材
 
 本项目使用公共领域的 Rider–Waite–Smith 大阿卡那牌面。素材保存在项目内部，页面运行时不需要再向图片站点请求。
-  
